@@ -21,7 +21,7 @@ Tu dois maintenant atteindre 100 K EUR de chiffre d'affaires
 - Que mets-tu en place pour y parvenir ? 
 - De quelle équipe penses-tu avoir besoin ? 
 - Quelle organisation mets-tu en place ? 
-- Quels sont les clefs du succès de ce développement ? Quels sont les risques que tu identifies ?
+- Quelles sont les clefs du succès de ce développement ? Quels sont les risques que tu identifies ?
 
 ### Niveau 3 
 
